@@ -30,7 +30,7 @@ Nine IoT devices send live data to **Cumulocity IoT**. On top of it, an **Agenti
 Sense → Predict → Detect → Recommend → Human approves → Command sent to device → Logged
 ```
 
-![System flow](docs/screenshots/system-flow.png)
+![System flow](docs/screenshots/system-flow%20(2).png)
 
 ## Features
 
